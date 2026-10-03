@@ -1,0 +1,9 @@
+numpy
+pandas>=2.0
+scipy
+scikit-learn>=1.4      # TargetEncoder and root_mean_squared_error need >= 1.4
+lightgbm
+xgboost
+matplotlib
+seaborn
+jupyter
